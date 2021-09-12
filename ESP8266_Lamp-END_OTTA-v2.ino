@@ -20,7 +20,7 @@ const long interval = 10000;              // интервал чтения с д
 
 char auth[] = "cb54c98792304514b8ecbb9ebf056b5a";
 char ssid[] = "TP-LINK_A5B116";
-char pass[] = "0011223344";
+char pass[] = "xxxxxx";
 
 void setup()
 {
